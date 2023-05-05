@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFLogs.NET", "FFLogs.NET\FFLogs.NET.csproj", "{55248279-3E07-4A07-8E6E-3E517F65A1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{8BB92699-891C-4699-81A8-3C9D3CD06988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55248279-3E07-4A07-8E6E-3E517F65A1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55248279-3E07-4A07-8E6E-3E517F65A1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55248279-3E07-4A07-8E6E-3E517F65A1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55248279-3E07-4A07-8E6E-3E517F65A1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB92699-891C-4699-81A8-3C9D3CD06988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB92699-891C-4699-81A8-3C9D3CD06988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB92699-891C-4699-81A8-3C9D3CD06988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB92699-891C-4699-81A8-3C9D3CD06988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8AD01A5-B812-41E2-B4E5-B6BE2BF2615A}
+	EndGlobalSection
+EndGlobal
